@@ -2,8 +2,13 @@
 <doctype.html!>
 <html>
   <head>
+     <style type="text/css">
+       
+    
+    </style>
 <title> </title>
   </head>
+ 
   <body>
     all contents goes in here.
     
