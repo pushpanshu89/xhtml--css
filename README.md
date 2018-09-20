@@ -1,5 +1,5 @@
 # xhtml--css
-<doctype.html!>
+<!doctype.html>
 <html>
   <head>
      <style type="text/css">
