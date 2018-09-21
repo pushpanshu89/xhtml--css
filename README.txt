@@ -18,11 +18,16 @@
     
     <p> </p>
     
-    <br>  </br>
+    <br>  
     
     <em> </em>
-    
+    <b>  </b>
+    <i> </i>
+    <sub> </sub>
+    <sup> </sup>
+    <mark> </mark>
     <strong>  </strong>
+    <address>  </address>
     
     
  
@@ -45,9 +50,8 @@
   
   </tr>
     
+ </table>
     
-    
-    </table>
     
     <form>
     
